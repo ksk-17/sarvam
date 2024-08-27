@@ -1,0 +1,15 @@
+.editor{
+    height: 100%;
+    display: flex;
+}
+
+.navbar {
+    height: 100%;
+    width: 15%;
+    background-color: brown;
+}
+
+.main {
+    height: 100%;
+    width: 85%;
+}

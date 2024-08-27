@@ -1,0 +1,9 @@
+.sliding-line {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: red;
+    /* Line color */
+    transition: left 0.1s linear;
+}

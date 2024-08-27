@@ -1,0 +1,50 @@
+.editor-panel {
+    height: 40%;
+    overflow-x: scroll;
+}
+
+.editor-controls{
+    display: flex;
+    height: 15px;
+    justify-content: space-around;
+}
+
+.divider{
+    margin-bottom: 0;
+}
+
+.track-container{
+    position: relative;
+}
+
+.vertical-lines-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 19px;
+}
+
+.vertical-line {
+    width: 1px;
+    height: 20px;
+    background-color: black;
+}
+
+.track {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    border-style: dotted;
+    height: 40px;
+}
+
+.track-item {
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.horizontal-line {
+    border-left: 2px solid red;
+    height: 260px;
+}

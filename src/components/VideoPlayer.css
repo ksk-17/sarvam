@@ -1,0 +1,16 @@
+.video-viewer {
+    height: 60%;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-controls {
+    cursor: pointer;
+}
+
+.control-icon{
+    margin: 0 5px;
+}
