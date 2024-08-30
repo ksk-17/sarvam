@@ -1,0 +1,12 @@
+.sidebar-main{
+    width: 100%;
+    display: flex;
+}
+
+.iconBar{
+    flex: 0.2;
+}
+
+.mediaBox{
+    flex: 0.8;
+}
